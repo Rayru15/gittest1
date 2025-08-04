@@ -7,3 +7,4 @@ fetch 테스트 !!
 pull 수정 테스트 1
 +++ 
 fetch, merge, rebase 연습1
+fetch 실습을 위한 원격 수정 2
